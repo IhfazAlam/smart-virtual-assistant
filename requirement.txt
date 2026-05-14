@@ -1,6 +1,7 @@
 pillow
-lxml==4.9.1
-requests-html==0.10.0
+requests
 pyttsx3
 SpeechRecognition==3.8.1
-PyAudio==0.2.11
+pyaudio
+comtypes
+pywin32
